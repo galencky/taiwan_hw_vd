@@ -1,3 +1,7 @@
+import os
+from tqdm import tqdm
+import pandas as pd
+
 def check_files(date):
     # Define the directory paths based on the input date
     csv_directory = os.path.join(r'D:\VD_data', date, 'csv')

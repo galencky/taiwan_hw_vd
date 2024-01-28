@@ -1,3 +1,8 @@
+import os
+from tqdm import tqdm
+import gzip
+import shutil
+
 def decompress_files(date):
     base_folder_path = f'D:\\VD_data\\{date}'
     compressed_folder_path = os.path.join(base_folder_path, 'compressed')

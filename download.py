@@ -1,12 +1,7 @@
 import os
 import requests
 import concurrent.futures
-from tqdm.notebook import tqdm
-import gzip
-import shutil
-import pandas as pd
-import xml.etree.ElementTree as ET
-from IPython.display import display, HTML
+from tqdm import tqdm
 
 # Specify the path to the directory you want to create
 directory_path = f'D:\\VD_data'

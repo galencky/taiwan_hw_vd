@@ -1,3 +1,5 @@
+import os
+
 def delete_files(date, delete_compressed, delete_decompressed, delete_csv):
     # Define the directory paths based on the input date
     compressed_directory = os.path.join(r'D:\VD_data', date, 'compressed')

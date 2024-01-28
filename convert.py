@@ -1,3 +1,8 @@
+import os
+from tqdm import tqdm
+import pandas as pd
+import xml.etree.ElementTree as ET
+
 def convert_xml_to_csv(date):
     input_dir = f"D:\\VD_data\\{date}\\decompressed"
     output_dir = f"D:\\VD_data\\{date}\\csv"
