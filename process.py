@@ -22,13 +22,11 @@ def process_csv_files(date):
     
     with tqdm(total=len(csv_files), unit='file') as pbar_files:
         for i, filename in enumerate(csv_files, start=1):
-            # Extract the time from the filename (e.g., VDLive_0855.csv -> '0855')
-            time = filename.split('_')[1].split('.')[0]
             
             try:
                 # Read the CSV file and insert the 'time' column at the beginning
                 df = pd.read_csv(os.path.join(input_directory, filename))
-                df.insert(0, 'time', time)
+                df.insert(0, 'file_name', filename)
                 
                 # Append the DataFrame to the list
                 dfs.append(df)
