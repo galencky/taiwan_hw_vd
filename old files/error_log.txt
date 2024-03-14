@@ -1,0 +1,123 @@
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1916.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1917.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1918.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1919.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1920.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1921.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1922.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1924.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1925.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1923.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1926.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1928.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1927.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1929.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1931.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:15 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1930.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1932.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1935.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1933.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1934.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1936.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1938.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1937.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1939.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1940.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1942.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1941.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1945.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1946.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1948.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1943.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1947.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1949.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1944.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1951.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1950.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1955.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1952.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1956.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1954.xml.gz as its size was less than 1KB.
+2023-08-26 01:22:16 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1953.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1916.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1917.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1919.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1918.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1920.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1921.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1922.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1926.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1923.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1925.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1924.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1928.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1929.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1930.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1927.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1931.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1932.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1943.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1937.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1938.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1936.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1933.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1935.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1934.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1939.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1942.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1944.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1940.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1941.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1952.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1949.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1948.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1945.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1946.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1947.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1951.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1950.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1953.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1955.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1954.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:26 ERROR: Deleted D:\VD_data\compressed_20230807\VDLive_1956.xml.gz as its size was less than 1KB.
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1916.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1917.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1918.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1919.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1920.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1921.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1922.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1923.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1924.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1925.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1926.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1927.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1928.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1929.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1930.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1931.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1932.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1933.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1934.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1935.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1936.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1937.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1938.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1939.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1940.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1941.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1942.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1943.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1944.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1945.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1946.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1947.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1948.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1949.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1950.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1951.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1952.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1953.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1954.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1955.xml.gz
+2023-08-26 01:23:29 ERROR: Failed to download or found corrupted: VDLive_1956.xml.gz
